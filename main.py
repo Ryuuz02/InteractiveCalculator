@@ -65,7 +65,7 @@ class calcApp(App):
         multiply_button = Button(text="*")
         multiply_button.bind(on_release=self.multiply_pressed)
         calc.add_widget(multiply_button)
-        negative_button = Button(text="Negative")
+        negative_button = Button(text="+/-")
         negative_button.bind(on_release=self.negative_pressed)
         calc.add_widget(negative_button)
         zero_button = Button(text="0")

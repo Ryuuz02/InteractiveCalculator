@@ -1,0 +1,4 @@
+Make the Decimals actually work
+Have everything be displayed in the calculator (will need to use a .kv file for this, see the ping pong game for example)
+Add more functionality to the calculator
+Improve the Visual Design
